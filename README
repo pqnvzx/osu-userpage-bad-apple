@@ -1,0 +1,24 @@
+how to use: 
+install python 3.8 or more
+use chromium-based browser or whatever 
+
+install dependecies:
+pip install -r requirements.txt
+
+make sure the video.mp4 is in the same folder, if it is, run:
+python video.py
+
+after that run:
+python vector.py
+
+after that start the local server:
+python server.py
+(make sure port 8000 is open, or change it)
+
+after server start open any osu userpage 
+press F12 and paste the main.js script into the console
+
+to stop, reload or close the page, or run this in console
+window.stopBadApple();z
+
+done, now you can larp touhou in osu 
